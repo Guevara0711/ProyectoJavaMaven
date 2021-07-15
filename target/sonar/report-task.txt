@@ -1,0 +1,7 @@
+organization=guevara0711
+projectKey=Guevara0711_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=Guevara0711_ProyectoJavaMaven
+ceTaskId=AXqjgjC0hLK6o3fsso0r
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqjgjC0hLK6o3fsso0r
